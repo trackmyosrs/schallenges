@@ -6,7 +6,7 @@ This file is updated at minimum every minute. It will only be changed if changes
 
  - **Alive:** Yes
  - **Combat Level:** 49.2
- - **Last Update:** 2020-09-01 17:14:34 UTC
+ - **Last Update:** 2020-09-01 18:08:30 UTC
 
 ## Hiscores
 
@@ -29,5 +29,5 @@ This file is updated at minimum every minute. It will only be changed if changes
 
 | Minigame / Boss | Score / Kill count |
 |--|--|
-| LMS - Rank | 1,306 |
+| LMS - Rank | 1,315 |
 | Chaos Elemental | 50 |
