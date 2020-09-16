@@ -6,7 +6,7 @@ This file is updated at minimum every minute. It will only be changed if changes
 
  - **Alive:** Yes
  - **Combat Level:** 53.7
- - **Last Update:** 2020-09-14 15:54:43 UTC
+ - **Last Update:** 2020-09-16 10:32:58 UTC
 
 ## Hiscores
 
