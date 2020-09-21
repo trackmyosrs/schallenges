@@ -6,7 +6,7 @@ This file is updated at minimum every minute. It will only be changed if changes
 
  - **Alive:** Yes
  - **Combat Level:** 54.6
- - **Last Update:** 2020-09-21 11:13:30 UTC
+ - **Last Update:** 2020-09-21 12:20:31 UTC
 
 ## Hiscores
 
@@ -33,5 +33,5 @@ This file is updated at minimum every minute. It will only be changed if changes
 | Clue Scrolls (all) | 3 |
 | Clue Scrolls (easy) | 1 |
 | Clue Scrolls (hard) | 2 |
-| LMS - Rank | 1,691 |
+| LMS - Rank | 1,699 |
 | Chaos Elemental | 50 |
