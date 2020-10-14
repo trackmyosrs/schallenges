@@ -5,8 +5,8 @@ This file is updated at minimum every minute. It will only be changed if changes
 ## Info
 
  - **Alive:** Yes
- - **Combat Level:** 57.6
- - **Last Update:** 2020-10-14 10:33:02 UTC
+ - **Combat Level:** 65.7
+ - **Last Update:** 2020-10-14 15:23:02 UTC
 
 ## Hiscores
 
@@ -14,11 +14,11 @@ This file is updated at minimum every minute. It will only be changed if changes
 
 | Skill | Level | XP |
 |--|--|--|
-| Overall | 714 | 2,863,149 |
-| Hitpoints | 63 | 379,471 |
-| Ranged | 75 | 1,293,371 |
+| Overall | 716 | 2,868,322 |
+| Hitpoints | 63 | 379,483 |
+| Ranged | 75 | 1,293,405 |
 | Prayer | 43 | 52,321 |
-| Magic | 61 | 311,681 |
+| Magic | 61 | 311,833 |
 | Smithing | 57 | 213,819 |
 | Mining | 56 | 194,125 |
 | Herblore | 4 | 280 |
@@ -36,5 +36,5 @@ This file is updated at minimum every minute. It will only be changed if changes
 | Clue Scrolls (easy) | 1 |
 | Clue Scrolls (medium) | 1 |
 | Clue Scrolls (hard) | 3 |
-| LMS - Rank | 1,979 |
+| LMS - Rank | 2,014 |
 | Chaos Elemental | 50 |
