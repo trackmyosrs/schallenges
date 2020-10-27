@@ -5,8 +5,8 @@ This file is updated at minimum every minute. It will only be changed if changes
 ## Info
 
  - **Alive:** Yes
- - **Combat Level:** 67.9
- - **Last Update:** 2020-10-27 15:50:10 UTC
+ - **Combat Level:** 68.2
+ - **Last Update:** 2020-10-27 17:46:02 UTC
 
 ## Hiscores
 
@@ -14,11 +14,11 @@ This file is updated at minimum every minute. It will only be changed if changes
 
 | Skill | Level | XP |
 |--|--|--|
-| Overall | 799 | 3,957,509 |
-| Hitpoints | 65 | 491,678 |
+| Overall | 800 | 3,998,306 |
+| Hitpoints | 66 | 499,973 |
 | Ranged | 75 | 1,295,319 |
 | Prayer | 43 | 53,826 |
-| Magic | 69 | 675,577 |
+| Magic | 69 | 708,079 |
 | Smithing | 57 | 214,075 |
 | Mining | 62 | 348,024 |
 | Herblore | 4 | 280 |
