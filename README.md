@@ -6,7 +6,7 @@ This file is updated at minimum every minute. It will only be changed if changes
 
  - **Alive:** Yes
  - **Combat Level:** 68.2
- - **Last Update:** 2020-10-28 11:25:24 UTC
+ - **Last Update:** 2020-10-28 12:11:21 UTC
 
 ## Hiscores
 
@@ -20,7 +20,6 @@ This file is updated at minimum every minute. It will only be changed if changes
 | Ranged | 75 | 1,295,319 |
 | Prayer | 43 | 54,256 |
 | Magic | 71 | 876,080 |
-| Crafting | 34 | 20,787 |
 | Smithing | 57 | 214,075 |
 | Mining | 62 | 348,024 |
 | Herblore | 4 | 280 |
