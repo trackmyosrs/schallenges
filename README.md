@@ -6,7 +6,7 @@ This file is updated at minimum every minute. It will only be changed if changes
 
  - **Alive:** No
  - **Combat Level:** 76.5
- - **Last Update:** 2020-12-06 21:23:03 UTC
+ - **Last Update:** 2020-12-07 01:27:48 UTC
 
 ## Hiscores
 
@@ -22,7 +22,6 @@ This file is updated at minimum every minute. It will only be changed if changes
 | Magic | 85 | 3,284,953 |
 | Cooking | 53 | 140,930 |
 | Woodcutting | 60 | 289,404 |
-| Fletching | 19 | 4,177 |
 | Fishing | 78 | 1,759,662 |
 | Firemaking | 50 | 101,420 |
 | Crafting | 41 | 44,241 |
