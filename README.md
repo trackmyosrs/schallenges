@@ -5,8 +5,8 @@ This file is updated at minimum every minute. It will only be changed if changes
 ## Info
 
  - **Alive:** No
- - **Combat Level:** 77.4
- - **Last Update:** 2020-12-11 02:09:06 UTC
+ - **Combat Level:** 77.8
+ - **Last Update:** 2020-12-11 13:53:05 UTC
 
 ## Hiscores
 
@@ -14,12 +14,12 @@ This file is updated at minimum every minute. It will only be changed if changes
 
 | Skill | Level | XP |
 |--|--|--|
-| Overall | 1079 | 13,555,052 |
+| Overall | 1081 | 13,600,222 |
 | Attack | 50 | 107,792 |
-| Hitpoints | 80 | 2,002,470 |
-| Ranged | 86 | 3,963,278 |
+| Hitpoints | 80 | 2,006,017 |
+| Ranged | 87 | 3,988,212 |
 | Prayer | 45 | 61,661 |
-| Magic | 85 | 3,294,329 |
+| Magic | 85 | 3,295,092 |
 | Cooking | 53 | 142,455 |
 | Woodcutting | 60 | 290,004 |
 | Fletching | 29 | 12,177 |
@@ -27,11 +27,11 @@ This file is updated at minimum every minute. It will only be changed if changes
 | Firemaking | 50 | 101,420 |
 | Crafting | 41 | 44,841 |
 | Smithing | 60 | 288,404 |
-| Mining | 63 | 400,351 |
+| Mining | 64 | 407,142 |
 | Herblore | 21 | 5,144 |
 | Agility | 65 | 458,013 |
 | Thieving | 53 | 139,516 |
-| Slayer | 64 | 418,608 |
+| Slayer | 64 | 427,743 |
 | Farming | 3 | 210 |
 | Hunter | 9 | 1,000 |
 | Construction | 9 | 1,024 |
