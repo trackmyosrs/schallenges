@@ -6,7 +6,7 @@ This file is updated at minimum every minute. It will only be changed if changes
 
  - **Alive:** No
  - **Combat Level:** 77.8
- - **Last Update:** 2020-12-14 22:50:30 UTC
+ - **Last Update:** 2020-12-14 23:28:22 UTC
 
 ## Hiscores
 
@@ -14,12 +14,12 @@ This file is updated at minimum every minute. It will only be changed if changes
 
 | Skill | Level | XP |
 |--|--|--|
-| Overall | 1109 | 14,450,876 |
+| Overall | 1109 | 14,450,946 |
 | Attack | 50 | 109,792 |
 | Hitpoints | 80 | 2,091,376 |
 | Ranged | 87 | 4,289,165 |
 | Prayer | 45 | 61,733 |
-| Magic | 86 | 3,606,771 |
+| Magic | 86 | 3,606,806 |
 | Cooking | 53 | 142,455 |
 | Woodcutting | 60 | 290,154 |
 | Fletching | 29 | 12,177 |
@@ -27,7 +27,7 @@ This file is updated at minimum every minute. It will only be changed if changes
 | Firemaking | 50 | 101,420 |
 | Crafting | 49 | 101,190 |
 | Smithing | 61 | 319,657 |
-| Mining | 64 | 415,425 |
+| Mining | 64 | 415,460 |
 | Herblore | 22 | 6,033 |
 | Agility | 65 | 458,073 |
 | Thieving | 53 | 140,666 |
@@ -45,6 +45,6 @@ This file is updated at minimum every minute. It will only be changed if changes
 | Clue Scrolls (easy) | 2 |
 | Clue Scrolls (medium) | 2 |
 | Clue Scrolls (hard) | 10 |
-| LMS - Rank | 2,265 |
+| LMS - Rank | 2,271 |
 | Chaos Elemental | 50 |
 | Crazy Archaeologist | 100 |
