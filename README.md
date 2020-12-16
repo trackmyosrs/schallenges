@@ -6,7 +6,7 @@ This file is updated at minimum every minute. It will only be changed if changes
 
  - **Alive:** No
  - **Combat Level:** 77.8
- - **Last Update:** 2020-12-16 08:16:30 UTC
+ - **Last Update:** 2020-12-16 08:20:46 UTC
 
 ## Hiscores
 
@@ -14,7 +14,7 @@ This file is updated at minimum every minute. It will only be changed if changes
 
 | Skill | Level | XP |
 |--|--|--|
-| Overall | 1142 | 14,540,076 |
+| Overall | 1147 | 14,541,256 |
 | Attack | 50 | 109,792 |
 | Hitpoints | 80 | 2,108,483 |
 | Ranged | 87 | 4,329,526 |
@@ -25,7 +25,7 @@ This file is updated at minimum every minute. It will only be changed if changes
 | Fletching | 29 | 12,177 |
 | Fishing | 78 | 1,759,662 |
 | Firemaking | 50 | 101,420 |
-| Crafting | 50 | 103,890 |
+| Crafting | 50 | 103,950 |
 | Smithing | 61 | 319,780 |
 | Mining | 64 | 415,460 |
 | Herblore | 22 | 6,033 |
@@ -34,7 +34,7 @@ This file is updated at minimum every minute. It will only be changed if changes
 | Slayer | 65 | 476,248 |
 | Farming | 26 | 9,672 |
 | Runecraft | 9 | 1,000 |
-| Hunter | 9 | 1,000 |
+| Hunter | 14 | 2,120 |
 | Construction | 25 | 8,097 |
 
 ### Minigames and Bosses
