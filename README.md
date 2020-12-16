@@ -6,7 +6,7 @@ This file is updated at minimum every minute. It will only be changed if changes
 
  - **Alive:** No
  - **Combat Level:** 77.8
- - **Last Update:** 2020-12-16 18:18:04 UTC
+ - **Last Update:** 2020-12-16 19:59:28 UTC
 
 ## Hiscores
 
@@ -14,38 +14,38 @@ This file is updated at minimum every minute. It will only be changed if changes
 
 | Skill | Level | XP |
 |--|--|--|
-| Overall | 1166 | 14,577,542 |
+| Overall | 1169 | 14,583,367 |
 | Attack | 50 | 109,792 |
 | Hitpoints | 80 | 2,113,342 |
 | Ranged | 87 | 4,344,146 |
 | Prayer | 45 | 61,733 |
-| Magic | 86 | 3,621,607 |
+| Magic | 86 | 3,623,057 |
 | Cooking | 53 | 142,455 |
-| Woodcutting | 60 | 290,508 |
+| Woodcutting | 60 | 290,718 |
 | Fletching | 29 | 12,177 |
 | Fishing | 78 | 1,759,662 |
 | Firemaking | 50 | 101,420 |
-| Crafting | 50 | 104,690 |
+| Crafting | 50 | 104,790 |
 | Smithing | 61 | 319,780 |
 | Mining | 64 | 415,460 |
 | Herblore | 22 | 6,033 |
 | Agility | 65 | 458,106 |
 | Thieving | 53 | 140,678 |
 | Slayer | 65 | 476,248 |
-| Farming | 27 | 10,223 |
+| Farming | 29 | 12,048 |
 | Runecraft | 9 | 1,000 |
-| Hunter | 32 | 17,240 |
+| Hunter | 33 | 19,480 |
 | Construction | 25 | 8,097 |
 
 ### Minigames and Bosses
 
 | Minigame / Boss | Score / Kill count |
 |--|--|
-| Clue Scrolls (all) | 15 |
+| Clue Scrolls (all) | 16 |
 | Clue Scrolls (beginner) | 1 |
-| Clue Scrolls (easy) | 2 |
+| Clue Scrolls (easy) | 3 |
 | Clue Scrolls (medium) | 2 |
 | Clue Scrolls (hard) | 10 |
-| LMS - Rank | 2,377 |
+| LMS - Rank | 2,393 |
 | Chaos Elemental | 50 |
 | Crazy Archaeologist | 100 |
