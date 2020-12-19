@@ -6,7 +6,7 @@ This file is updated at minimum every minute. It will only be changed if changes
 
  - **Alive:** No
  - **Combat Level:** 79.4
- - **Last Update:** 2020-12-19 10:28:34 UTC
+ - **Last Update:** 2020-12-19 11:04:14 UTC
 
 ## Hiscores
 
@@ -14,23 +14,23 @@ This file is updated at minimum every minute. It will only be changed if changes
 
 | Skill | Level | XP |
 |--|--|--|
-| Overall | 1237 | 15,176,181 |
+| Overall | 1238 | 15,180,948 |
 | Attack | 50 | 109,792 |
 | Defence | 44 | 59,290 |
-| Hitpoints | 80 | 2,134,703 |
-| Ranged | 88 | 4,407,925 |
+| Hitpoints | 80 | 2,134,784 |
+| Ranged | 88 | 4,408,169 |
 | Prayer | 45 | 61,738 |
 | Magic | 86 | 3,626,133 |
 | Cooking | 62 | 351,515 |
 | Woodcutting | 60 | 298,416 |
 | Fletching | 29 | 12,177 |
-| Fishing | 78 | 1,789,342 |
+| Fishing | 78 | 1,789,802 |
 | Firemaking | 50 | 101,606 |
-| Crafting | 51 | 117,480 |
+| Crafting | 51 | 117,513 |
 | Smithing | 61 | 325,900 |
-| Mining | 64 | 417,690 |
-| Herblore | 34 | 20,733 |
-| Agility | 65 | 463,600 |
+| Mining | 64 | 417,795 |
+| Herblore | 35 | 24,571 |
+| Agility | 65 | 463,606 |
 | Thieving | 55 | 180,624 |
 | Slayer | 65 | 476,248 |
 | Farming | 46 | 72,524 |
