@@ -6,7 +6,7 @@ This file is updated at minimum every minute. It will only be changed if changes
 
  - **Alive:** No
  - **Combat Level:** 80.0
- - **Last Update:** 2020-12-22 16:51:00 UTC
+ - **Last Update:** 2020-12-22 18:46:22 UTC
 
 ## Hiscores
 
@@ -14,19 +14,19 @@ This file is updated at minimum every minute. It will only be changed if changes
 
 | Skill | Level | XP |
 |--|--|--|
-| Overall | 1270 | 16,418,256 |
+| Overall | 1271 | 16,448,355 |
 | Attack | 50 | 109,792 |
 | Defence | 44 | 59,290 |
-| Hitpoints | 81 | 2,387,594 |
-| Ranged | 89 | 4,985,860 |
+| Hitpoints | 81 | 2,394,130 |
+| Ranged | 89 | 5,005,493 |
 | Prayer | 45 | 61,738 |
-| Magic | 86 | 3,754,439 |
+| Magic | 86 | 3,754,749 |
 | Cooking | 62 | 351,555 |
-| Woodcutting | 60 | 299,454 |
+| Woodcutting | 60 | 299,604 |
 | Fletching | 29 | 12,177 |
 | Fishing | 78 | 1,789,892 |
 | Firemaking | 50 | 101,726 |
-| Crafting | 52 | 127,296 |
+| Crafting | 52 | 127,486 |
 | Smithing | 61 | 325,939 |
 | Mining | 64 | 417,983 |
 | Herblore | 47 | 75,913 |
@@ -35,17 +35,17 @@ This file is updated at minimum every minute. It will only be changed if changes
 | Slayer | 65 | 476,248 |
 | Farming | 55 | 179,730 |
 | Runecraft | 9 | 1,040 |
-| Hunter | 55 | 183,394 |
+| Hunter | 56 | 186,674 |
 | Construction | 25 | 8,347 |
 
 ### Minigames and Bosses
 
 | Minigame / Boss | Score / Kill count |
 |--|--|
-| Clue Scrolls (all) | 17 |
+| Clue Scrolls (all) | 18 |
 | Clue Scrolls (beginner) | 1 |
 | Clue Scrolls (easy) | 4 |
-| Clue Scrolls (medium) | 2 |
+| Clue Scrolls (medium) | 3 |
 | Clue Scrolls (hard) | 10 |
 | LMS - Rank | 2,407 |
 | Chaos Elemental | 50 |
