@@ -6,7 +6,7 @@ This file is updated at minimum every minute. It will only be changed if changes
 
  - **Alive:** No
  - **Combat Level:** 80.0
- - **Last Update:** 2020-12-22 12:27:36 UTC
+ - **Last Update:** 2020-12-22 14:16:45 UTC
 
 ## Hiscores
 
@@ -14,28 +14,28 @@ This file is updated at minimum every minute. It will only be changed if changes
 
 | Skill | Level | XP |
 |--|--|--|
-| Overall | 1270 | 16,273,363 |
+| Overall | 1270 | 16,343,172 |
 | Attack | 50 | 109,792 |
 | Defence | 44 | 59,290 |
-| Hitpoints | 81 | 2,353,553 |
-| Ranged | 89 | 4,883,737 |
+| Hitpoints | 81 | 2,368,999 |
+| Ranged | 89 | 4,930,076 |
 | Prayer | 45 | 61,738 |
-| Magic | 86 | 3,754,047 |
+| Magic | 86 | 3,754,439 |
 | Cooking | 62 | 351,555 |
 | Woodcutting | 60 | 299,454 |
 | Fletching | 29 | 12,177 |
 | Fishing | 78 | 1,789,892 |
 | Firemaking | 50 | 101,726 |
-| Crafting | 52 | 127,016 |
+| Crafting | 52 | 127,296 |
 | Smithing | 61 | 325,939 |
 | Mining | 64 | 417,983 |
 | Herblore | 47 | 75,208 |
 | Agility | 65 | 463,610 |
-| Thieving | 57 | 203,442 |
+| Thieving | 57 | 203,452 |
 | Slayer | 65 | 476,248 |
-| Farming | 55 | 178,948 |
+| Farming | 55 | 179,730 |
 | Runecraft | 9 | 1,040 |
-| Hunter | 55 | 176,834 |
+| Hunter | 55 | 183,394 |
 | Construction | 25 | 8,347 |
 
 ### Minigames and Bosses
