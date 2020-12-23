@@ -6,7 +6,7 @@ This file is updated at minimum every minute. It will only be changed if changes
 
  - **Alive:** No
  - **Combat Level:** 80.2
- - **Last Update:** 2020-12-23 14:53:27 UTC
+ - **Last Update:** 2020-12-23 15:46:06 UTC
 
 ## Hiscores
 
@@ -47,6 +47,6 @@ This file is updated at minimum every minute. It will only be changed if changes
 | Clue Scrolls (easy) | 4 |
 | Clue Scrolls (medium) | 3 |
 | Clue Scrolls (hard) | 10 |
-| LMS - Rank | 2,407 |
+| LMS - Rank | 2,426 |
 | Chaos Elemental | 50 |
 | Crazy Archaeologist | 100 |
