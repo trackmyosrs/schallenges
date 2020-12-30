@@ -6,7 +6,7 @@ This file is updated at minimum every minute. It will only be changed if changes
 
  - **Alive:** No
  - **Combat Level:** 80.9
- - **Last Update:** 2020-12-30 17:20:25 UTC
+ - **Last Update:** 2020-12-30 17:36:22 UTC
 
 ## Hiscores
 
@@ -14,15 +14,15 @@ This file is updated at minimum every minute. It will only be changed if changes
 
 | Skill | Level | XP |
 |--|--|--|
-| Overall | 1337 | 19,251,866 |
+| Overall | 1337 | 19,252,991 |
 | Attack | 50 | 109,792 |
 | Defence | 44 | 60,067 |
-| Hitpoints | 82 | 2,646,744 |
-| Ranged | 90 | 5,853,131 |
+| Hitpoints | 82 | 2,646,907 |
+| Ranged | 90 | 5,853,623 |
 | Prayer | 45 | 61,793 |
-| Magic | 86 | 3,874,403 |
+| Magic | 86 | 3,874,701 |
 | Cooking | 73 | 1,012,115 |
-| Woodcutting | 67 | 593,566 |
+| Woodcutting | 67 | 593,716 |
 | Fletching | 50 | 102,795 |
 | Fishing | 78 | 1,789,892 |
 | Firemaking | 50 | 101,726 |
@@ -35,7 +35,7 @@ This file is updated at minimum every minute. It will only be changed if changes
 | Slayer | 67 | 584,384 |
 | Farming | 62 | 349,937 |
 | Runecraft | 9 | 1,040 |
-| Hunter | 60 | 282,044 |
+| Hunter | 60 | 282,066 |
 | Construction | 25 | 8,347 |
 
 ### Minigames and Bosses
@@ -43,11 +43,11 @@ This file is updated at minimum every minute. It will only be changed if changes
 | Minigame / Boss | Score / Kill count |
 |--|--|
 | Bounty Hunter - Rogue | 4 |
-| Clue Scrolls (all) | 18 |
+| Clue Scrolls (all) | 19 |
 | Clue Scrolls (beginner) | 1 |
 | Clue Scrolls (easy) | 4 |
 | Clue Scrolls (medium) | 3 |
-| Clue Scrolls (hard) | 10 |
+| Clue Scrolls (hard) | 11 |
 | LMS - Rank | 2,538 |
 | Chaos Elemental | 50 |
 | Chaos Fanatic | 119 |
