@@ -5,8 +5,8 @@ This file is updated at minimum every minute. It will only be changed if changes
 ## Info
 
  - **Alive:** No
- - **Combat Level:** 80.9
- - **Last Update:** 2020-12-31 13:09:08 UTC
+ - **Combat Level:** 81.1
+ - **Last Update:** 2020-12-31 14:37:39 UTC
 
 ## Hiscores
 
@@ -14,13 +14,13 @@ This file is updated at minimum every minute. It will only be changed if changes
 
 | Skill | Level | XP |
 |--|--|--|
-| Overall | 1340 | 19,618,569 |
+| Overall | 1342 | 19,674,628 |
 | Attack | 50 | 109,792 |
 | Defence | 44 | 60,067 |
-| Hitpoints | 82 | 2,672,367 |
-| Ranged | 90 | 5,864,341 |
+| Hitpoints | 83 | 2,683,450 |
+| Ranged | 90 | 5,864,342 |
 | Prayer | 45 | 61,793 |
-| Magic | 86 | 3,970,495 |
+| Magic | 87 | 4,015,461 |
 | Cooking | 75 | 1,213,475 |
 | Woodcutting | 67 | 593,716 |
 | Fletching | 50 | 102,795 |
@@ -30,7 +30,7 @@ This file is updated at minimum every minute. It will only be changed if changes
 | Smithing | 64 | 410,467 |
 | Mining | 64 | 425,230 |
 | Herblore | 50 | 109,175 |
-| Agility | 65 | 463,662 |
+| Agility | 65 | 463,670 |
 | Thieving | 57 | 203,462 |
 | Slayer | 67 | 584,384 |
 | Farming | 62 | 349,937 |
@@ -52,3 +52,4 @@ This file is updated at minimum every minute. It will only be changed if changes
 | Chaos Elemental | 50 |
 | Chaos Fanatic | 132 |
 | Crazy Archaeologist | 100 |
+| Scorpia | 64 |
