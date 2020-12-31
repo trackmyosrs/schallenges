@@ -6,7 +6,7 @@ This file is updated at minimum every minute. It will only be changed if changes
 
  - **Alive:** No
  - **Combat Level:** 81.1
- - **Last Update:** 2020-12-31 15:24:13 UTC
+ - **Last Update:** 2020-12-31 15:52:45 UTC
 
 ## Hiscores
 
@@ -14,13 +14,13 @@ This file is updated at minimum every minute. It will only be changed if changes
 
 | Skill | Level | XP |
 |--|--|--|
-| Overall | 1342 | 19,674,632 |
+| Overall | 1342 | 19,709,363 |
 | Attack | 50 | 109,792 |
 | Defence | 44 | 60,067 |
-| Hitpoints | 83 | 2,683,450 |
+| Hitpoints | 83 | 2,690,469 |
 | Ranged | 90 | 5,864,342 |
 | Prayer | 45 | 61,793 |
-| Magic | 87 | 4,015,461 |
+| Magic | 87 | 4,043,173 |
 | Cooking | 75 | 1,213,475 |
 | Woodcutting | 67 | 593,716 |
 | Fletching | 50 | 102,795 |
@@ -52,4 +52,4 @@ This file is updated at minimum every minute. It will only be changed if changes
 | Chaos Elemental | 50 |
 | Chaos Fanatic | 132 |
 | Crazy Archaeologist | 100 |
-| Scorpia | 64 |
+| Scorpia | 79 |
