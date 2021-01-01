@@ -6,7 +6,7 @@ This file is updated at minimum every minute. It will only be changed if changes
 
  - **Alive:** No
  - **Combat Level:** 81.1
- - **Last Update:** 2021-01-01 17:52:39 UTC
+ - **Last Update:** 2021-01-01 18:54:50 UTC
 
 ## Hiscores
 
@@ -14,13 +14,13 @@ This file is updated at minimum every minute. It will only be changed if changes
 
 | Skill | Level | XP |
 |--|--|--|
-| Overall | 1342 | 19,709,569 |
+| Overall | 1342 | 19,781,766 |
 | Attack | 50 | 109,792 |
 | Defence | 44 | 60,067 |
-| Hitpoints | 83 | 2,690,477 |
+| Hitpoints | 83 | 2,704,999 |
 | Ranged | 90 | 5,864,342 |
 | Prayer | 45 | 61,793 |
-| Magic | 87 | 4,043,371 |
+| Magic | 87 | 4,101,028 |
 | Cooking | 75 | 1,213,475 |
 | Woodcutting | 67 | 593,716 |
 | Fletching | 50 | 102,795 |
@@ -30,7 +30,7 @@ This file is updated at minimum every minute. It will only be changed if changes
 | Smithing | 64 | 410,467 |
 | Mining | 64 | 425,230 |
 | Herblore | 50 | 109,175 |
-| Agility | 65 | 463,674 |
+| Agility | 65 | 463,692 |
 | Thieving | 57 | 203,462 |
 | Slayer | 67 | 584,384 |
 | Farming | 62 | 349,937 |
@@ -52,4 +52,4 @@ This file is updated at minimum every minute. It will only be changed if changes
 | Chaos Elemental | 50 |
 | Chaos Fanatic | 132 |
 | Crazy Archaeologist | 100 |
-| Scorpia | 79 |
+| Scorpia | 110 |
