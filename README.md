@@ -6,7 +6,7 @@ This file is updated at minimum every minute. It will only be changed if changes
 
  - **Alive:** No
  - **Combat Level:** 81.1
- - **Last Update:** 2021-01-02 14:25:22 UTC
+ - **Last Update:** 2021-01-02 14:27:33 UTC
 
 ## Hiscores
 
@@ -14,7 +14,7 @@ This file is updated at minimum every minute. It will only be changed if changes
 
 | Skill | Level | XP |
 |--|--|--|
-| Overall | 1342 | 20,097,245 |
+| Overall | 1342 | 20,097,265 |
 | Attack | 50 | 109,792 |
 | Defence | 44 | 60,067 |
 | Hitpoints | 83 | 2,768,238 |
@@ -35,7 +35,7 @@ This file is updated at minimum every minute. It will only be changed if changes
 | Slayer | 67 | 584,384 |
 | Farming | 62 | 349,937 |
 | Runecraft | 9 | 1,040 |
-| Hunter | 60 | 282,122 |
+| Hunter | 60 | 282,142 |
 | Construction | 25 | 8,347 |
 
 ### Minigames and Bosses
