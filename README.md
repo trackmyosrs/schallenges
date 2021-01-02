@@ -6,7 +6,7 @@ This file is updated at minimum every minute. It will only be changed if changes
 
  - **Alive:** No
  - **Combat Level:** 81.1
- - **Last Update:** 2021-01-02 12:04:34 UTC
+ - **Last Update:** 2021-01-02 13:01:06 UTC
 
 ## Hiscores
 
@@ -14,11 +14,11 @@ This file is updated at minimum every minute. It will only be changed if changes
 
 | Skill | Level | XP |
 |--|--|--|
-| Overall | 1342 | 20,029,166 |
+| Overall | 1342 | 20,029,368 |
 | Attack | 50 | 109,792 |
 | Defence | 44 | 60,067 |
-| Hitpoints | 83 | 2,754,680 |
-| Ranged | 90 | 5,864,342 |
+| Hitpoints | 83 | 2,754,730 |
+| Ranged | 90 | 5,864,494 |
 | Prayer | 45 | 61,793 |
 | Magic | 87 | 4,298,673 |
 | Cooking | 75 | 1,213,475 |
@@ -48,7 +48,7 @@ This file is updated at minimum every minute. It will only be changed if changes
 | Clue Scrolls (easy) | 4 |
 | Clue Scrolls (medium) | 3 |
 | Clue Scrolls (hard) | 12 |
-| LMS - Rank | 2,755 |
+| LMS - Rank | 2,778 |
 | Chaos Elemental | 50 |
 | Chaos Fanatic | 132 |
 | Crazy Archaeologist | 100 |
