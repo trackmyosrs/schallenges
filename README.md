@@ -6,7 +6,7 @@ This file is updated at minimum every minute. It will only be changed if changes
 
  - **Alive:** No
  - **Combat Level:** 81.1
- - **Last Update:** 2021-01-02 13:01:06 UTC
+ - **Last Update:** 2021-01-02 14:25:22 UTC
 
 ## Hiscores
 
@@ -14,13 +14,13 @@ This file is updated at minimum every minute. It will only be changed if changes
 
 | Skill | Level | XP |
 |--|--|--|
-| Overall | 1342 | 20,029,368 |
+| Overall | 1342 | 20,097,245 |
 | Attack | 50 | 109,792 |
 | Defence | 44 | 60,067 |
-| Hitpoints | 83 | 2,754,730 |
-| Ranged | 90 | 5,864,494 |
+| Hitpoints | 83 | 2,768,238 |
+| Ranged | 90 | 5,864,678 |
 | Prayer | 45 | 61,793 |
-| Magic | 87 | 4,298,673 |
+| Magic | 87 | 4,352,473 |
 | Cooking | 75 | 1,213,475 |
 | Woodcutting | 67 | 593,716 |
 | Fletching | 50 | 102,795 |
@@ -29,13 +29,13 @@ This file is updated at minimum every minute. It will only be changed if changes
 | Crafting | 55 | 175,213 |
 | Smithing | 64 | 410,467 |
 | Mining | 64 | 425,230 |
-| Herblore | 50 | 109,175 |
-| Agility | 65 | 463,734 |
+| Herblore | 50 | 109,520 |
+| Agility | 65 | 463,750 |
 | Thieving | 57 | 203,462 |
 | Slayer | 67 | 584,384 |
 | Farming | 62 | 349,937 |
 | Runecraft | 9 | 1,040 |
-| Hunter | 60 | 282,098 |
+| Hunter | 60 | 282,122 |
 | Construction | 25 | 8,347 |
 
 ### Minigames and Bosses
@@ -52,4 +52,4 @@ This file is updated at minimum every minute. It will only be changed if changes
 | Chaos Elemental | 50 |
 | Chaos Fanatic | 132 |
 | Crazy Archaeologist | 100 |
-| Scorpia | 217 |
+| Scorpia | 247 |
