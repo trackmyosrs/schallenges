@@ -5,8 +5,8 @@ This file is updated at minimum every minute. It will only be changed if changes
 ## Info
 
  - **Alive:** No
- - **Combat Level:** 84.4
- - **Last Update:** 2021-01-03 19:31:58 UTC
+ - **Combat Level:** 84.6
+ - **Last Update:** 2021-01-03 19:43:02 UTC
 
 ## Hiscores
 
@@ -14,11 +14,11 @@ This file is updated at minimum every minute. It will only be changed if changes
 
 | Skill | Level | XP |
 |--|--|--|
-| Overall | 1377 | 20,673,477 |
+| Overall | 1378 | 20,682,498 |
 | Attack | 52 | 129,792 |
-| Defence | 56 | 203,199 |
+| Defence | 57 | 209,971 |
 | Strength | 60 | 273,788 |
-| Hitpoints | 83 | 2,897,216 |
+| Hitpoints | 83 | 2,899,465 |
 | Ranged | 90 | 5,867,607 |
 | Prayer | 46 | 72,802 |
 | Magic | 88 | 4,391,048 |
