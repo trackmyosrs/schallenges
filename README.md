@@ -5,8 +5,8 @@ This file is updated at minimum every minute. It will only be changed if changes
 ## Info
 
  - **Alive:** No
- - **Combat Level:** 84.6
- - **Last Update:** 2021-01-03 19:43:02 UTC
+ - **Combat Level:** 85.4
+ - **Last Update:** 2021-01-04 11:10:46 UTC
 
 ## Hiscores
 
@@ -14,14 +14,14 @@ This file is updated at minimum every minute. It will only be changed if changes
 
 | Skill | Level | XP |
 |--|--|--|
-| Overall | 1378 | 20,682,498 |
+| Overall | 1381 | 20,832,579 |
 | Attack | 52 | 129,792 |
-| Defence | 57 | 209,971 |
-| Strength | 60 | 273,788 |
-| Hitpoints | 83 | 2,899,465 |
+| Defence | 60 | 273,779 |
+| Strength | 60 | 274,240 |
+| Hitpoints | 83 | 2,934,669 |
 | Ranged | 90 | 5,867,607 |
 | Prayer | 46 | 72,802 |
-| Magic | 88 | 4,391,048 |
+| Magic | 88 | 4,441,636 |
 | Cooking | 75 | 1,213,475 |
 | Woodcutting | 67 | 604,156 |
 | Fletching | 50 | 102,795 |
@@ -36,7 +36,7 @@ This file is updated at minimum every minute. It will only be changed if changes
 | Slayer | 67 | 584,384 |
 | Farming | 62 | 349,937 |
 | Runecraft | 9 | 1,040 |
-| Hunter | 60 | 282,215 |
+| Hunter | 60 | 282,244 |
 | Construction | 29 | 13,347 |
 
 ### Minigames and Bosses
@@ -49,8 +49,8 @@ This file is updated at minimum every minute. It will only be changed if changes
 | Clue Scrolls (easy) | 4 |
 | Clue Scrolls (medium) | 3 |
 | Clue Scrolls (hard) | 12 |
-| LMS - Rank | 2,836 |
+| LMS - Rank | 2,850 |
 | Chaos Elemental | 50 |
 | Chaos Fanatic | 132 |
-| Crazy Archaeologist | 100 |
+| Crazy Archaeologist | 115 |
 | Scorpia | 267 |
