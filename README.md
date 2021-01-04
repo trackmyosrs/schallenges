@@ -6,7 +6,7 @@ This file is updated at minimum every minute. It will only be changed if changes
 
  - **Alive:** No
  - **Combat Level:** 85.4
- - **Last Update:** 2021-01-04 11:19:11 UTC
+ - **Last Update:** 2021-01-04 15:33:43 UTC
 
 ## Hiscores
 
@@ -14,7 +14,7 @@ This file is updated at minimum every minute. It will only be changed if changes
 
 | Skill | Level | XP |
 |--|--|--|
-| Overall | 1381 | 20,834,041 |
+| Overall | 1382 | 20,888,810 |
 | Attack | 52 | 129,792 |
 | Defence | 60 | 273,779 |
 | Strength | 60 | 274,240 |
@@ -23,20 +23,20 @@ This file is updated at minimum every minute. It will only be changed if changes
 | Prayer | 46 | 72,802 |
 | Magic | 88 | 4,442,729 |
 | Cooking | 75 | 1,213,475 |
-| Woodcutting | 67 | 604,156 |
-| Fletching | 50 | 102,795 |
+| Woodcutting | 68 | 647,756 |
+| Fletching | 50 | 111,190 |
 | Fishing | 78 | 1,789,892 |
 | Firemaking | 50 | 101,726 |
 | Crafting | 55 | 181,565 |
-| Smithing | 64 | 410,467 |
+| Smithing | 64 | 412,467 |
 | Mining | 64 | 425,255 |
-| Herblore | 50 | 109,520 |
+| Herblore | 50 | 110,270 |
 | Agility | 65 | 463,760 |
 | Thieving | 57 | 204,491 |
 | Slayer | 67 | 584,384 |
 | Farming | 62 | 349,937 |
 | Runecraft | 9 | 1,040 |
-| Hunter | 60 | 282,244 |
+| Hunter | 60 | 282,268 |
 | Construction | 29 | 13,347 |
 
 ### Minigames and Bosses
@@ -49,7 +49,7 @@ This file is updated at minimum every minute. It will only be changed if changes
 | Clue Scrolls (easy) | 4 |
 | Clue Scrolls (medium) | 3 |
 | Clue Scrolls (hard) | 12 |
-| LMS - Rank | 2,850 |
+| LMS - Rank | 2,877 |
 | Chaos Elemental | 50 |
 | Chaos Fanatic | 132 |
 | Crazy Archaeologist | 116 |
