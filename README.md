@@ -6,7 +6,7 @@ This file is updated at minimum every minute. It will only be changed if changes
 
  - **Alive:** No
  - **Combat Level:** 85.4
- - **Last Update:** 2021-01-05 09:41:39 UTC
+ - **Last Update:** 2021-01-05 10:35:13 UTC
 
 ## Hiscores
 
@@ -14,14 +14,14 @@ This file is updated at minimum every minute. It will only be changed if changes
 
 | Skill | Level | XP |
 |--|--|--|
-| Overall | 1391 | 21,081,406 |
+| Overall | 1391 | 21,137,409 |
 | Attack | 52 | 129,792 |
-| Defence | 60 | 273,779 |
-| Strength | 60 | 274,240 |
-| Hitpoints | 83 | 2,935,038 |
-| Ranged | 90 | 5,867,607 |
+| Defence | 60 | 273,791 |
+| Strength | 60 | 274,396 |
+| Hitpoints | 83 | 2,943,155 |
+| Ranged | 90 | 5,892,081 |
 | Prayer | 46 | 72,802 |
-| Magic | 88 | 4,442,729 |
+| Magic | 88 | 4,453,773 |
 | Cooking | 75 | 1,213,475 |
 | Woodcutting | 70 | 740,944 |
 | Fletching | 55 | 169,540 |
@@ -33,7 +33,7 @@ This file is updated at minimum every minute. It will only be changed if changes
 | Herblore | 50 | 110,270 |
 | Agility | 65 | 463,760 |
 | Thieving | 57 | 204,491 |
-| Slayer | 67 | 584,384 |
+| Slayer | 67 | 596,584 |
 | Farming | 62 | 365,386 |
 | Runecraft | 9 | 1,040 |
 | Hunter | 60 | 288,947 |
