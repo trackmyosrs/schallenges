@@ -6,7 +6,7 @@ This file is updated at minimum every minute. It will only be changed if changes
 
  - **Alive:** No
  - **Combat Level:** 86.0
- - **Last Update:** 2021-01-06 11:59:34 UTC
+ - **Last Update:** 2021-01-06 14:45:48 UTC
 
 ## Hiscores
 
@@ -50,7 +50,7 @@ This file is updated at minimum every minute. It will only be changed if changes
 | Clue Scrolls (medium) | 3 |
 | Clue Scrolls (hard) | 12 |
 | LMS - Rank | 2,901 |
-| Chaos Elemental | 50 |
-| Chaos Fanatic | 132 |
-| Crazy Archaeologist | 116 |
-| Scorpia | 267 |
+| Chaos Fanatic | 50 |
+| Commander Zilyana | 132 |
+| Dagannoth Prime | 116 |
+| Skotizo | 267 |
