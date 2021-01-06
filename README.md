@@ -6,7 +6,7 @@ This file is updated at minimum every minute. It will only be changed if changes
 
  - **Alive:** No
  - **Combat Level:** 86.0
- - **Last Update:** 2021-01-06 14:45:48 UTC
+ - **Last Update:** 2021-01-06 15:20:05 UTC
 
 ## Hiscores
 
@@ -14,29 +14,29 @@ This file is updated at minimum every minute. It will only be changed if changes
 
 | Skill | Level | XP |
 |--|--|--|
-| Overall | 1394 | 21,358,346 |
-| Attack | 52 | 129,792 |
-| Defence | 60 | 273,795 |
-| Strength | 60 | 274,396 |
-| Hitpoints | 84 | 2,963,936 |
-| Ranged | 91 | 6,017,163 |
+| Overall | 1396 | 21,409,204 |
+| Attack | 52 | 132,867 |
+| Defence | 60 | 276,870 |
+| Strength | 60 | 277,491 |
+| Hitpoints | 84 | 2,967,387 |
+| Ranged | 91 | 6,020,350 |
 | Prayer | 46 | 72,802 |
-| Magic | 88 | 4,455,221 |
-| Cooking | 75 | 1,213,535 |
-| Woodcutting | 70 | 741,244 |
+| Magic | 88 | 4,456,208 |
+| Cooking | 75 | 1,216,420 |
+| Woodcutting | 70 | 742,919 |
 | Fletching | 55 | 179,290 |
-| Fishing | 78 | 1,789,952 |
-| Firemaking | 50 | 101,726 |
+| Fishing | 78 | 1,792,797 |
+| Firemaking | 50 | 103,301 |
 | Crafting | 56 | 197,970 |
-| Smithing | 64 | 432,437 |
-| Mining | 64 | 425,385 |
-| Herblore | 50 | 110,770 |
+| Smithing | 65 | 453,437 |
+| Mining | 64 | 427,960 |
+| Herblore | 51 | 112,181 |
 | Agility | 65 | 463,760 |
 | Thieving | 57 | 204,491 |
 | Slayer | 68 | 641,644 |
 | Farming | 62 | 365,386 |
 | Runecraft | 9 | 1,040 |
-| Hunter | 60 | 288,974 |
+| Hunter | 60 | 288,996 |
 | Construction | 30 | 13,637 |
 
 ### Minigames and Bosses
@@ -44,11 +44,11 @@ This file is updated at minimum every minute. It will only be changed if changes
 | Minigame / Boss | Score / Kill count |
 |--|--|
 | Bounty Hunter - Rogue | 4 |
-| Clue Scrolls (all) | 20 |
+| Clue Scrolls (all) | 21 |
 | Clue Scrolls (beginner) | 1 |
 | Clue Scrolls (easy) | 4 |
 | Clue Scrolls (medium) | 3 |
-| Clue Scrolls (hard) | 12 |
+| Clue Scrolls (hard) | 13 |
 | LMS - Rank | 2,901 |
 | Chaos Fanatic | 50 |
 | Commander Zilyana | 132 |
