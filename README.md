@@ -6,7 +6,7 @@ This file is updated at minimum every minute. It will only be changed if changes
 
  - **Alive:** No
  - **Combat Level:** 86.0
- - **Last Update:** 2021-01-06 15:35:59 UTC
+ - **Last Update:** 2021-01-07 06:52:37 UTC
 
 ## Hiscores
 
@@ -14,12 +14,12 @@ This file is updated at minimum every minute. It will only be changed if changes
 
 | Skill | Level | XP |
 |--|--|--|
-| Overall | 1396 | 21,411,201 |
+| Overall | 1396 | 21,421,611 |
 | Attack | 52 | 132,867 |
 | Defence | 60 | 276,870 |
 | Strength | 60 | 277,491 |
-| Hitpoints | 84 | 2,967,387 |
-| Ranged | 91 | 6,020,350 |
+| Hitpoints | 84 | 2,967,423 |
+| Ranged | 91 | 6,020,458 |
 | Prayer | 46 | 72,802 |
 | Magic | 88 | 4,456,208 |
 | Cooking | 75 | 1,216,420 |
@@ -28,7 +28,7 @@ This file is updated at minimum every minute. It will only be changed if changes
 | Fishing | 78 | 1,792,797 |
 | Firemaking | 50 | 103,301 |
 | Crafting | 56 | 197,970 |
-| Smithing | 65 | 455,434 |
+| Smithing | 65 | 465,700 |
 | Mining | 64 | 427,960 |
 | Herblore | 51 | 112,181 |
 | Agility | 65 | 463,760 |
