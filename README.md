@@ -6,7 +6,7 @@ This file is updated at minimum every minute. It will only be changed if changes
 
  - **Alive:** No
  - **Combat Level:** 87.4
- - **Last Update:** 2021-01-17 12:31:43 UTC
+ - **Last Update:** 2021-01-17 16:53:36 UTC
 
 ## Hiscores
 
@@ -14,16 +14,16 @@ This file is updated at minimum every minute. It will only be changed if changes
 
 | Skill | Level | XP |
 |--|--|--|
-| Overall | 1432 | 24,993,950 |
+| Overall | 1432 | 25,036,310 |
 | Attack | 60 | 273,812 |
-| Defence | 60 | 276,891 |
+| Defence | 60 | 276,893 |
 | Strength | 79 | 1,803,872 |
-| Hitpoints | 86 | 3,730,966 |
-| Ranged | 91 | 6,111,782 |
+| Hitpoints | 86 | 3,736,744 |
+| Ranged | 91 | 6,129,133 |
 | Prayer | 46 | 72,802 |
-| Magic | 89 | 5,239,102 |
+| Magic | 89 | 5,239,408 |
 | Cooking | 75 | 1,216,420 |
-| Woodcutting | 70 | 746,408 |
+| Woodcutting | 70 | 762,808 |
 | Fletching | 55 | 180,790 |
 | Fishing | 78 | 1,792,797 |
 | Firemaking | 50 | 103,490 |
@@ -33,7 +33,7 @@ This file is updated at minimum every minute. It will only be changed if changes
 | Herblore | 51 | 122,749 |
 | Agility | 65 | 464,373 |
 | Thieving | 57 | 204,491 |
-| Slayer | 69 | 680,372 |
+| Slayer | 69 | 682,895 |
 | Farming | 63 | 389,654 |
 | Runecraft | 9 | 1,040 |
 | Hunter | 60 | 289,237 |
@@ -43,7 +43,7 @@ This file is updated at minimum every minute. It will only be changed if changes
 
 | Minigame / Boss | Score / Kill count |
 |--|--|
-| Bounty Hunter - Rogue | 4 |
+| Bounty Hunter - Rogue | 5 |
 | Clue Scrolls (all) | 21 |
 | Clue Scrolls (beginner) | 1 |
 | Clue Scrolls (easy) | 4 |
