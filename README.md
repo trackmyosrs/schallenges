@@ -6,7 +6,7 @@ This file is updated at minimum every minute. It will only be changed if changes
 
  - **Alive:** No
  - **Combat Level:** 87.4
- - **Last Update:** 2021-01-20 05:47:48 UTC
+ - **Last Update:** 2021-01-20 06:17:05 UTC
 
 ## Hiscores
 
@@ -49,7 +49,7 @@ This file is updated at minimum every minute. It will only be changed if changes
 | Clue Scrolls (easy) | 4 |
 | Clue Scrolls (medium) | 3 |
 | Clue Scrolls (hard) | 13 |
-| LMS - Rank | 2,963 |
+| LMS - Rank | 2,981 |
 | Chaos Fanatic | 50 |
 | Commander Zilyana | 132 |
 | Dagannoth Prime | 116 |
