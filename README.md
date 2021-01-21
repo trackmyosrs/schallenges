@@ -4,9 +4,9 @@ This file is updated at minimum every minute. It will only be changed if changes
 
 ## Info
 
- - **Alive:** Yes
+ - **Alive:** No
  - **Combat Level:** 87.4
- - **Last Update:** 2021-01-21 21:47:10 UTC
+ - **Last Update:** 2021-01-21 21:48:18 UTC
 
 ## Hiscores
 
