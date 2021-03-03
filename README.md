@@ -6,7 +6,7 @@ This file is updated at minimum every minute. It will only be changed if changes
 
  - **Alive:** No
  - **Combat Level:** 87.4
- - **Last Update:** 2021-03-03 11:31:36 UTC
+ - **Last Update:** 2021-03-03 16:10:33 UTC
 
 ## Hiscores
 
@@ -44,6 +44,7 @@ This file is updated at minimum every minute. It will only be changed if changes
 | Minigame / Boss | Score / Kill count |
 |--|--|
 | Bounty Hunter - Rogue | 5 |
+| Clue Scrolls (all) | 22 |
 | Clue Scrolls (beginner) | 1 |
 | Clue Scrolls (easy) | 4 |
 | Clue Scrolls (medium) | 3 |
