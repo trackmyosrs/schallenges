@@ -5,8 +5,8 @@ This file is updated at minimum every minute. It will only be changed if changes
 ## Info
 
  - **Alive:** No
- - **Combat Level:** 87.4
- - **Last Update:** 2021-03-08 18:05:35 UTC
+ - **Combat Level:** 88.2
+ - **Last Update:** 2021-03-08 19:34:59 UTC
 
 ## Hiscores
 
@@ -14,30 +14,30 @@ This file is updated at minimum every minute. It will only be changed if changes
 
 | Skill | Level | XP |
 |--|--|--|
-| Overall | 1440 | 26,031,149 |
+| Overall | 1449 | 26,087,970 |
 | Attack | 60 | 273,812 |
 | Defence | 60 | 278,723 |
-| Strength | 79 | 1,813,570 |
-| Hitpoints | 86 | 3,781,325 |
-| Ranged | 91 | 6,346,640 |
-| Prayer | 46 | 72,874 |
-| Magic | 90 | 5,629,718 |
+| Strength | 79 | 1,814,321 |
+| Hitpoints | 86 | 3,781,955 |
+| Ranged | 91 | 6,347,790 |
+| Prayer | 52 | 123,778 |
+| Magic | 90 | 5,629,766 |
 | Cooking | 75 | 1,216,475 |
-| Woodcutting | 72 | 920,924 |
+| Woodcutting | 72 | 921,438 |
 | Fletching | 58 | 231,979 |
 | Fishing | 78 | 1,792,797 |
-| Firemaking | 50 | 103,807 |
+| Firemaking | 50 | 103,926 |
 | Crafting | 57 | 203,598 |
 | Smithing | 66 | 511,737 |
 | Mining | 67 | 580,503 |
-| Herblore | 51 | 122,832 |
-| Agility | 65 | 476,485 |
+| Herblore | 52 | 123,740 |
+| Agility | 65 | 476,497 |
 | Thieving | 57 | 207,301 |
 | Slayer | 70 | 754,471 |
-| Farming | 63 | 406,720 |
+| Farming | 64 | 408,205 |
 | Runecraft | 9 | 1,040 |
 | Hunter | 60 | 289,281 |
-| Construction | 30 | 14,537 |
+| Construction | 31 | 14,837 |
 
 ### Minigames and Bosses
 
